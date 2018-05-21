@@ -1,5 +1,5 @@
-from frame.model import Model
-from serv.piggy_fly import PiggyFly
+from pigg.frame import Model
+from pigg.serv import PiggyFly
 
 
 class XXModel(Model):
